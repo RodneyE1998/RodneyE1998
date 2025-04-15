@@ -21,9 +21,8 @@
 ---
 
 ## 📫 Contact Me:
-- 📧 Email: rodney.escobar@example.com *(cambia esto por tu correo real o uno profesional)*
-- 🌐 Portfolio: [Coming Soon]
-- 🏫 Passionate about teaching, learning, and innovation in tech & education.
+- Email: rodney.escobar@example.com *(cambia esto por tu correo real o uno profesional)*
+- Linkedin: www.linkedin.com/in/rodney-escobar
 
 ---
 
