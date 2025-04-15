@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rodney Escobar
 
-<!--
-**RodneyE1998/RodneyE1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Information Systems Engineer** | 💻 Passionate about technology, education, and software development.
 
-Here are some ideas to get you started:
+🔧 I love working on educational and social-impact projects. Currently developing **TurnoSmart**, a web and mobile app to manage school appointments using **Spring Boot** and **.NET MAUI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack:
+- **Languages:** Java, JavaScript, C#, SQL
+- **Frameworks:** Spring Boot, .NET MAUI
+- **Database:** PostgreSQL, SQL Server
+- **Tools:** Git, GitHub, VS Code, Spring Tool Suite
+
+---
+
+## 📚 Current Projects:
+- `TurnoSmart` – Parent-teacher appointment management system
+- Robotics and STEM activities for middle school students
+- Academic performance tracking platform
+
+---
+
+## 📫 Contact Me:
+- 📧 Email: rodney.escobar@example.com *(cambia esto por tu correo real o uno profesional)*
+- 🌐 Portfolio: [Coming Soon]
+- 🏫 Passionate about teaching, learning, and innovation in tech & education.
+
+---
+
+> "Technology is best when it brings people together." – Matt Mullenweg
