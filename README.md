@@ -1,8 +1,7 @@
-# Hi, I'm Rodney Escobar
+# Rodney Escobar
 
-🎓 **Information Systems Engineer** | 💻 Passionate about technology, education, and software development.
-
-🔧 I love working on educational and social-impact projects. Currently developing **TurnoSmart**, a web and mobile app to manage school appointments using **Spring Boot** and **.NET MAUI**.
+🎓 I'm Rodney Escobar, an Information Systems Engineer graduated from Universidad Tecnológica Israel.  
+💡 I'm passionate about data science, cybersecurity, and web development. I enjoy building projects that make a positive impact in education and technology. Welcome to my GitHub profile!
 
 ---
 
