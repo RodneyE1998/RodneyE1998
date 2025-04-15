@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Contact Me:
-- Email: rodney.escobar@example.com *(cambia esto por tu correo real o uno profesional)*
+- Email: escobarodney@gmail.com
 - Linkedin: www.linkedin.com/in/rodney-escobar
 
 ---
