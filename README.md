@@ -8,9 +8,9 @@
 
 ## 🛠️ Tech Stack:
 - **Languages:** Java, JavaScript, C#, SQL
-- **Frameworks:** Spring Boot, .NET MAUI
-- **Database:** PostgreSQL, SQL Server
-- **Tools:** Git, GitHub, VS Code, Spring Tool Suite
+- **Frameworks:** Spring Boot, .NET MAUI, Visual Studio, Spring Tool Suite
+- **Database:** PostgreSQL, SQL Server, MySQL
+- **Tools:** Postman 
 
 ---
 
