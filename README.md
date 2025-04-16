@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack:
 Languages:
-Java · JavaScript · C# · SQL
+Java · JavaScript · C# · PHP 
 
 Frameworks & Tools:
 Spring Boot · .NET MAUI · Visual Studio · Spring Tool Suite · Postman
