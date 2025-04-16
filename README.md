@@ -1,29 +1,29 @@
 # Rodney Escobar
-
-🎓 I'm Rodney Escobar, an Information Systems Engineer graduated from Universidad Tecnológica Israel.  
-💡 I'm passionate about data science, cybersecurity, and web development. I enjoy building projects that make a positive impact in education and technology. Welcome to my GitHub profile!
+Information Systems Engineer from Universidad Tecnológica Israel.
+Passionate about data science, cybersecurity, and web development. I enjoy building meaningful projects that create a positive impact in education and technology.
+Welcome to my GitHub profile!
 
 ---
 
 ## 🛠️ Tech Stack:
-- **Languages:** Java, JavaScript, C#, SQL
-- **Frameworks:** Spring Boot, .NET MAUI, Visual Studio, Spring Tool Suite
-- **Database:** PostgreSQL, SQL Server, MySQL
-- **Tools:** Postman 
+Languages:
+Java · JavaScript · C# · SQL
+
+Frameworks & Tools:
+Spring Boot · .NET MAUI · Visual Studio · Spring Tool Suite · Postman
+
+Databases:
+PostgreSQL · SQL Server · MySQL
 
 ---
 
 ## 📚 Current Projects:
-- `TurnoSmart` – Parent-teacher appointment management system
-- Robotics and STEM activities for middle school students
-- Academic performance tracking platform
+- TurnoSmart – A parent-teacher appointment management system
+- Robotics and STEM – Activities designed for middle school students
+- Academic Performance Tracker – A platform for monitoring student progress
 
 ---
 
 ## 📫 Contact Me:
 - Email: escobarodney@gmail.com
 - Linkedin: www.linkedin.com/in/rodney-escobar
-
----
-
-> "Technology is best when it brings people together." – Matt Mullenweg
