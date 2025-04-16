@@ -1,6 +1,7 @@
 # Rodney Escobar
-Information Systems Engineer from Universidad Tecnológica Israel.
-Passionate about data science, cybersecurity, and web development. I enjoy building meaningful projects that create a positive impact in education and technology.
+- Information Systems Engineer from Universidad Tecnológica Israel.
+  
+- Passionate about data science, cybersecurity, and web development. I enjoy building meaningful projects that create a positive impact in education and technology.
 Welcome to my GitHub profile!
 
 ---
